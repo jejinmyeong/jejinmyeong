@@ -32,7 +32,7 @@ I'm JinMyeong, a growing developer. 🌱 <br>
   <a href="https://jingmong.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=for-the-badge&logo=D-Wave Systems&logoColor=white&link=https://jingmong.tistory.com"/></a>&nbsp
 </p>
  
-  ![jinmyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jejinmyeong&show_icons=true&theme=radical)
+  ![jinmyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jejinmyeong&show_icons=true&theme=radical&locale=kr)
 
 
 
