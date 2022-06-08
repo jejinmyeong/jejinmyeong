@@ -30,7 +30,11 @@ I'm JinMyeong, a growing developer. 🌱 <br>
 <h3 align="center">•••</h3>
 <p align="center">
   <a href="https://jingmong.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=for-the-badge&logo=D-Wave Systems&logoColor=white&link=https://jingmong.tistory.com"/></a>&nbsp
-</p
+</p>
+ 
+  ![jinmyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jejinmyeong&show_icons=true&theme=radical)
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=504F8C&height=100&section=footer)
  
