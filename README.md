@@ -27,7 +27,7 @@ I'm JinMyeong, a growing developer. 🌱 <br>
   <img alt="Mattermost" src ="https://img.shields.io/badge/Mattermost-0058CC.svg?&style=for-the-badge&logo=Mattermost&logoColor=black"/>
 </p>
 
-<h3 align="center">•••</h3>
+<h3 align="center">•••</h3> 
 <p align="center">
   <a href="https://jingmong.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=for-the-badge&logo=D-Wave Systems&logoColor=white&link=https://jingmong.tistory.com"/></a>&nbsp
 </p>
