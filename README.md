@@ -25,7 +25,7 @@ I'm JinMyeong, a growing developer. 🌱 <br>
   <img alt="Jira" src ="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira Software&logoColor=black"/>
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
   <img alt="Mattermost" src ="https://img.shields.io/badge/Mattermost-0058CC.svg?&style=for-the-badge&logo=Mattermost&logoColor=black"/>
-</p>
+</p> 
 
 <h3 align="center">•••</h3> 
 <p align="center">
