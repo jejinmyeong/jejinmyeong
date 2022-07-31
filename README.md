@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=A6A5E2&height=300&section=header&text=JinMyeong%20Je&fontSize=70)
 <h3 align="center"> 👋 Hi there 👋 </h3>
-<p align="center">
+<p align="center">  
 I'm JinMyeong, a growing developer. 🌱 <br>
 </p>
 <h3 align="center">📚 Tech Stack 📚</h3>
