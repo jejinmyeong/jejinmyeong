@@ -2,7 +2,7 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">   
 I'm JinMyeong, a growing developer. 🌱 <br> 
-</p>
+</p> 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
  <img alt="React.js" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
