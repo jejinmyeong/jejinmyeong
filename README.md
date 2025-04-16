@@ -29,16 +29,14 @@
   </div>
     
   <br> 
-
-  <div align= "center">
-    <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjejinmyeong%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-  </div> 
 </div>
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
   <div align= "left"> 
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=jbright0520" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejinmyeong&layout=compact&bg_color=180,f6d6ff,00000000&title_color=000000&text_color=000000"
+/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jejinmyeong&bg_color=180,f6d6ff,00000000&title_color=000000&text_color=000000"
 />
   </div> 
 </div>
