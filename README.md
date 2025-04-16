@@ -40,8 +40,6 @@
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=jbright0520" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejinmyeong&layout=compact&bg_color=180,f6d6ff,00000000&title_color=000000&text_color=000000"
 />
-    <img src="https://github-readme-stats.vercel.app/api?username=jejinmyeong&bg_color=180,f6d6ff,00000000&title_color=000000&text_color=000000"
-/>
   </div> 
 </div>
     
